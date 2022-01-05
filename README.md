@@ -5,6 +5,10 @@
 
 3 - run file run.pyc or run.exe 
 
+# My config
+if you want my config run Myconfig.pyc 
+
+# social
 <a href="https://open.spotify.com/user/31d72u7kl45enzfmzzjsdygltowq">
 <img alt="spotify" src="https://img.shields.io/badge/-Spotify-000000?logo=Spotify&logoColor=fff"/> 
 <a href="https://soundcloud.com/4ksr">
