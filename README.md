@@ -1,13 +1,13 @@
 # Hack csgo 
 1 - Donload file 
 ```sh
-git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo cd && cd csgo && chmod +x *
+git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo cd && cd csgo && chmod +x Download && chmod +x run && chmod +x myconfig
 ```
-2- run file python3 Download.pyc or Download.exe 
+2- run file python3 Download.pyc or Download
 ```sh
 ./Download
 ```
-3 - run file run.pyc or run.exe 
+3 - run file run.pyc or run
 ```sh
 ./run
 ```
