@@ -3,7 +3,11 @@
 
 2- run file python3 Download.pyc or Download.exe 
 
+./Download
+
 3 - run file run.pyc or run.exe 
+
+./run
 
 # My config
 if you want my config run Myconfig.pyc 
