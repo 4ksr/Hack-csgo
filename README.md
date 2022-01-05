@@ -1,13 +1,16 @@
 # Hack csgo 
 1 - Donload file 
+```sh
 
+```
 2- run file python3 Download.pyc or Download.exe 
-
+```sh
 ./Download
-
+```
 3 - run file run.pyc or run.exe 
-
+```sh
 ./run
+```
 
 # My config
 if you want my config run Myconfig.pyc 
