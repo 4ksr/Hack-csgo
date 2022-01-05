@@ -13,6 +13,7 @@ git clone https://github.com/4ksr/Hack-csgo.git
 ```
 
 # My config
+
 if you want my config run Myconfig.pyc 
 
 ---
