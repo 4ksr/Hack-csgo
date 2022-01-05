@@ -8,6 +8,9 @@
 # My config
 if you want my config run Myconfig.pyc 
 
+<img src="https://media.discordapp.net/attachments/702685155742974014/928333504931037254/Screenshot_from_2022-01-05_00-22-54.png?width=1180&height=664">
+
+
 # social
 <a href="https://open.spotify.com/user/31d72u7kl45enzfmzzjsdygltowq">
 <img alt="spotify" src="https://img.shields.io/badge/-Spotify-000000?logo=Spotify&logoColor=fff"/> 
