@@ -1,7 +1,7 @@
 # Hack csgo 
 1 - Donload file 
 ```sh
-git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo cd && cd csgo
+git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo cd && cd csgo && chmod +x *
 ```
 2- run file python3 Download.pyc or Download.exe 
 ```sh
