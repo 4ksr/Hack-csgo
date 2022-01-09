@@ -16,6 +16,12 @@ git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo  && cd csgo && c
 
 if you want my config run Myconfig.pyc 
 
+```sh
+./myconfig
+```
+```go
+run game farst
+```
 # how to start Hack?
 ```sh
 Insert 
