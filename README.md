@@ -1,5 +1,5 @@
 # Hack csgo 
-1 - Donload file 
+1 - Download file 
 ```sh
 git clone https://github.com/4ksr/Hack-csgo.git && cd Hack-csgo  && cd csgo && chmod +x Download && chmod +x run && chmod +x myconfig
 ```
